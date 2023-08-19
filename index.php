@@ -9,6 +9,7 @@
     <h1>Hello, World!</h1>
     <?php
         echo "This is a simple PHP project.";
+        $vr -joj;
     ?>
 </body>
 
